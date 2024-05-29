@@ -1,3 +1,5 @@
 This is fileb
 Lets make a change to fileB
 Making another change on Master
+Making another change 
+This is for squash merge
