@@ -1,2 +1,4 @@
 This is file C
 Lets make a change to file C 
+Make another change here
+This is a squash merge
